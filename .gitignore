@@ -1,0 +1,18 @@
+# Pliki Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.opendb
+*.db
+
+# Pliki kompilacji
+*.obj
+*.exe
+*.log
+*.tlog
+*.pdb
+
+# Inne śmieci
+Debug/
+Release/
+ipch/
